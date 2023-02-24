@@ -30,7 +30,7 @@ input[type="text"], input[type="email"], textarea, button{
 display: block;
 margin: 5px;
 color: #8B4513;
-width: 400px;
+width: 50%;
 box-sizing: border-box;
 border-radius: 4px;
 box-shadow: inset 2px 2px 2px brown;
