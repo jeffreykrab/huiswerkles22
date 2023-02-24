@@ -1,0 +1,48 @@
+body{
+  background-color: #FFF8DC;
+  padding: 5px;
+  margin: 5px;
+}
+.header{
+background-color: #FFE4C4;
+color: #8B4513;
+}
+.footer{
+min-height: 200px;
+background-color: #FFE4C4;
+color: #8B4513;
+text-align: center;
+line-height: 200px;
+}
+.container-sm{
+  background-color: #DEB887;
+  color: #8B4513;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+.nav-link{
+  color: #8B4513;
+}
+.nav-link:hover{
+  color: #FF0000;
+}
+input[type="text"], input[type="email"], textarea, button{
+display: block;
+margin: 5px;
+color: #8B4513;
+width: 400px;
+box-sizing: border-box;
+border-radius: 4px;
+box-shadow: inset 2px 2px 2px brown;
+background-color: #FFF8DC;
+padding: 3px;
+}
+textarea{
+height: 200px;
+background-color: #FFF8DC;
+padding: 5px;
+}
+button:active{
+color: #FF0000;
+border-radius: 4px;
+}
